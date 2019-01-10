@@ -128,9 +128,47 @@ margin: 50px 25px;
 	width: 525px;
 	height: 500px;
 }
-
-
-p {
+.part1 p {
 	margin: 50px 0;
 	text-align: center;
 }
+.top1 {
+margin: 50px 75px;	
+}
+.top1 a{
+	margin: 0 35px;
+	color: grey;
+	text-decoration: none;
+}
+.logo1{
+	margin-left: 90px;
+}
+.part1 {
+box-sizing: border-box;
+display: inline-block;
+border: 1px solid blue;
+height: 500px;
+padding: 50px;
+width: 49%;
+}
+.part1 h1{
+	border: 1px solid orange;
+	font-size: 100px;
+	display: inline;
+	margin: 100px 0;
+}
+.part1 p{
+	text-align: center;
+}
+.part1 .button1{
+	border: 1px solid black;
+	width: 175px;
+	height: 40px;
+	padding: 7px;
+	margin: 0 auto;
+}
+.part1 img{
+	display: inline-block;
+	width: 51%;
+}
+
